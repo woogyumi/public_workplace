@@ -1,13 +1,13 @@
 # 사설망 환경에서 vscode ssh개발환경 구성하기
 
 ## 필요한 파일 다운로드 하기
-. vscode 설치 파일과 해당 버전의 commitid와 일치하는 vscode-server 설치파일이 필요함
+- vscode 설치 파일과 해당 버전의 commitid와 일치하는 vscode-server 설치파일이 필요함
 
 ## vscode 설치 파일을 받아 설치한다.
-. 2022.09.28일 기준 최신버전으로 환경구성
-. version : 1.71.2
-. https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
-. commitid : 74b1f979648cc44d385a2286793c226e611f59e7
+- 2022.09.28일 기준 최신버전으로 환경구성
+- version : 1.71.2
+- https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+- commitid : 74b1f979648cc44d385a2286793c226e611f59e7
 
 #### vscode-server 파일을 다운로드
 https://update.code.visualstudio.com/commit:74b1f979648cc44d385a2286793c226e611f59e7/server-linux-x64/stable
